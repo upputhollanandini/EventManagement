@@ -9,4 +9,4 @@ Key Features:
 
 Whether you're planning a conference, workshop, or social gathering, this MERN stack event management application simplifies the process, allowing organizers to focus on creating memorable experiences. Check out the repository to explore the code and contribute to the project!"
 
-"Here's the link to access the website: 
+"Here's the link to access the website: https://thunderous-taffy-f9f5f6.netlify.app
